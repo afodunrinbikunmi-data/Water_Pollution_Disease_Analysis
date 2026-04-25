@@ -2,11 +2,9 @@
 ### Global Study of Water Pollution & Waterborne Disease Burden | Excel | Python | Power BI
 
 ## Project Summary
-An end-to-end analysis of the relationship between water pollution and waterborne disease prevalence across 10 countries spanning 26 years (2000–2025). Using a multi-tool pipeline of Excel,Python, and Power BI, this project identifies patterns, disparities, and trends in global disease burden — and evaluates whether pollution, water quality, and socio-economic factors predict health outcomes.
+An end-to-end analysis of the relationship between water pollution and waterborne disease prevalence across 10 countries spanning 26 years (2000–2025). Using a multi-tool pipeline of Excel,Python, and Power BI, this project identifies patterns, disparities, and trends in global disease burden and evaluates whether pollution, water quality, and socio-economic factors predict health outcomes.
 
-**Key finding: Every single country in the dataset is classified
-as High Risk. Disease burden has shown no meaningful improvement
-over 25 years of global monitoring.**
+**Key finding: Every single country in the dataset is classified as High Risk. Disease burden has shown no meaningful improvement over 25 years of global monitoring.**
 
 ## Dataset Overview
 | Field | Detail |
