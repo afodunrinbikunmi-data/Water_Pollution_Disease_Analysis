@@ -54,9 +54,10 @@ over 25 years of global monitoring.**
   - `Risk_Level` — Low / Medium / High classification
 
 ## Data Engineering (Power Query)
-  
+The project follows a three-stage analytical pipeline - Excel for initial cleaning and feature engineering, Python for EDA and advanced feature creation, Power BI for modelling and visualisation. The final enriched dataset containing all 24 original columns plus 9 engineered features was exported from Python and loaded into Power BI as a single flat table. 
+
 ## Data Modeling
-The project follows a three-stage analytical pipeline - Excel for initial cleaning and feature engineering, Python for EDA and advanced feature creation, Power BI for modelling and visualisation. The final enriched dataset containing all 24 original columns plus 9 engineered features was exported from Python and loaded into Power BI as a single flat table. No relational joins or data model relationships were required. Seven DAX measures were created in a dedicated measures table: 
+No relational joins or data model relationships were required. Seven DAX measures were created in a dedicated measures table: 
 - Avg Disease Burden
 - Avg Health Risk Index
 - Avg Clean Water Access
@@ -72,7 +73,7 @@ The project follows a three-stage analytical pipeline - Excel for initial cl
   - `Water_Quality_Score` — Aggregated water quality measure
   - `Risk_Level_Advanced` — Advanced risk categorisation
   - `Log_Pollution` — Log-transformed pollution for normalized analysis
-- Generated visualisations: bar chart, line trend, boxplot, scatter
+- Generated visualisations: bar chart, line trend, boxplot, scatter plot
 
 ## Key Questions & Analysis
 1. Which countries carry the highest average disease burden?
@@ -107,3 +108,22 @@ The Power BI dashboard contains 2 report pages:
 | Pollution & Water Quality | KPIs, pollution by country, water quality trend, water source breakdown, risk matrix |
 
 ## Project Structure
+```text
+├── data/
+│   ├── water_pollution_raw.xlsx
+│   └── water_pollution_engineered.csv
+├── notebooks/
+│   └── water_pollution_eda.ipynb
+├── dashboard/
+│   └── water_pollution_dashboard.pbix
+├── report/
+│   └── Water_Pollution_Disease_Analysis.pptx
+├── screenshots/
+│   ├── dashboard_1_disease_burden.png
+│   └── dashboard_2_pollution_quality.png
+└── README.md
+```
+## About me
+Afodunrinbi Samad Akinkunmi
+ Data Analyst | Excel | Power BI
+- [LinkedIn] | [Medium Article Link]
