@@ -9,19 +9,19 @@ An end-to-end analysis of the relationship between water pollution and waterborn
 ## Dataset Overview
 | Field | Detail |
 |---|---|
-| Records | 3,000 unique entries |
-| Countries | 10 (USA, India, China, Brazil, Nigeria, Bangladesh, Mexico, Indonesia, Pakistan, Ethiopia) |
-| Regions | 5 per country (North, South, East, West, Central) |
-| Period | 2000 — 2025 |
-| Columns | 24 original + 9 engineered |
-| Source | Water Pollution Disease Dataset (Kaggle) |
+| **Records** | 3,000 unique entries |
+| **Countries** | 10 (USA, India, China, Brazil, Nigeria, Bangladesh, Mexico, Indonesia, Pakistan, Ethiopia) |
+| **Regions** | 5 per country (North, South, East, West, Central) |
+| **Period** | 2000 — 2025 |
+| **Columns** | 24 original + 9 engineered |
+| **Source** | Water Pollution Disease Dataset (Kaggle) |
 
 ## Key Columns in the Dataset
 | Column | Description |
 |---|---|
-| Country / Region / Year | Geographic and temporal identifiers |
-| Water_Source | Lake, Pond, River, Spring, Tap, Well |
-| Contaminant_Level / pH_Level / Turbidity | Water quality indicators |
+| **Country / Region / Year** | Geographic and temporal identifiers |
+| **Water_Source** | Lake, Pond, River, Spring, Tap, Well |
+| **Contaminant_Level** / pH_Level / Turbidity | Water quality indicators |
 | Dissolved_Oxygen / Nitrate_Level / Lead_Concentration | Chemical composition |
 | Bacteria_Count | Microbial contamination measure |
 | Water_Treatment_Method | Boiling, Chlorination, Filtration, Unknown |
