@@ -72,7 +72,10 @@ No relational joins or data model relationships were required. Seven DAX measure
   - **`Water_Quality_Score`** — Aggregated water quality measure
   - **`Risk_Level_Advanced`** — Advanced risk categorisation
   - **`Log_Pollution`** — Log-transformed pollution for normalized analysis
+![image description]()
 - **Generated visualisations**: bar chart, line trend, boxplot, scatter plot
+![image description](https://github.com/afodunrinbikunmi-data/Water_Pollution_Disease_Analysis/blob/main/python%20eda%20water%20pollution%20analysis.png)
+
 
 ## Key Questions & Analysis
 1. Which countries carry the highest average disease burden?
