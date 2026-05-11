@@ -101,8 +101,8 @@ No relational joins or data model relationships were required. Seven DAX measure
 2. Prioritise water treatment in Mexico, Indonesia, Ethiopia — highest pollution index countries
 3. Build a global real-time disease burden surveillance system — 25 years of no progress demands a new approach
 
-## Dashboard / Visualization
 ![image description](https://github.com/afodunrinbikunmi_data/Water_Pollution_Disease_Analysis/blob/main/water%20pollution%20dashboard.png)
+## Dashboard / Visualization
 The Power BI dashboard contains 2 report pages:
 
 | Page | Focus |
