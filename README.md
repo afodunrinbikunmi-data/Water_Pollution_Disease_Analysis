@@ -99,11 +99,14 @@ No relational joins or data model relationships were required. Seven DAX measure
 
 ## Dashboard / Visualization
 The Power BI dashboard contains 2 report pages:
+![image description](https://github.com/afodunrinbikunmi_data/Water_Pollution_Disease_Analysis/blob/main/water%20pollution%20dashboard.png)
 
 | Page | Focus |
 |---|---|
 | **Disease Burden Analysis** | KPIs, country ranking, 25yr trend, regional spread, disease type breakdown, scatter |
+![image description](https://github.com/afodunrinbikunmi-data/Water_Pollution_Disease_Analysis/blob/main/disease%20burden.png)
 | **Pollution & Water Quality** | KPIs, pollution by country, water quality trend, water source breakdown, risk matrix |
+![image description](https://github.com/afodunrinbikunmi-data/Water_Pollution_Disease_Analysis/blob/main/pollution%20risk%20dashboard.png)
 
 ## Project Structure
 ```text
