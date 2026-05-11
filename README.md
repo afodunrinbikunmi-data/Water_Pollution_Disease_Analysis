@@ -102,8 +102,8 @@ No relational joins or data model relationships were required. Seven DAX measure
 3. Build a global real-time disease burden surveillance system — 25 years of no progress demands a new approach
 
 ## Dashboard / Visualization
-The Power BI dashboard contains 2 report pages:
 ![image description](https://github.com/afodunrinbikunmi_data/Water_Pollution_Disease_Analysis/blob/main/water%20pollution%20dashboard.png)
+The Power BI dashboard contains 2 report pages:
 
 | Page | Focus |
 |---|---|
