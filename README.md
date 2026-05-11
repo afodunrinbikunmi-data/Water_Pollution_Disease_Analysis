@@ -50,6 +50,7 @@ An end-to-end analysis of the relationship between water pollution and waterborn
   - **`Pollution_Index`** — Overall pollution composite measure
   - **`Disease_per_Pollution`** — Disease burden relative to pollution
   - **`Risk_Level`** — Low / Medium / High classification
+![image descriptin](https://github.com/afodunrinbikunmi-data/Water_Pollution_Disease_Analysis/blob/main/water%20pollution%20excel.PNG)
 
 ## Data Engineering (Power Query)
 The project follows a three-stage analytical pipeline - Excel for initial cleaning and feature engineering, Python for EDA and advanced feature creation, Power BI for modelling and visualisation. The final enriched dataset containing all 24 original columns plus 9 engineered features was exported from Python and loaded into Power BI as a single flat table. 
