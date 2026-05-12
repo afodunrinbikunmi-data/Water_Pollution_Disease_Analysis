@@ -108,11 +108,9 @@ The Power BI dashboard contains 2 report pages:
 
 ![image description](https://github.com/afodunrinbikunmi-data/Water_Pollution_Disease_Analysis/blob/main/water%20pollution%20dashboard.png)
 
-| Page | Focus |
-|---|---|
-| **Disease Burden Analysis** | KPIs, country ranking, 25yr trend, regional spread, disease type breakdown, scatter |
+- **Disease Burden Analysis**: KPIs, country ranking, 25yr trend, regional spread, disease type breakdown, scatter
 ![image description](https://github.com/afodunrinbikunmi-data/Water_Pollution_Disease_Analysis/blob/main/disease%20burden.png)
-| **Pollution & Water Quality** | KPIs, pollution by country, water quality trend, water source breakdown, risk matrix |
+- **Pollution & Water Quality**: KPIs, pollution by country, water quality trend, water source breakdown, risk matrix
 ![image description](https://github.com/afodunrinbikunmi-data/Water_Pollution_Disease_Analysis/blob/main/pollution%20risk%20dashboard.png)
 
 ## Project Structure
@@ -138,4 +136,4 @@ I am a Certified Data Analyst with a strong passion for transforming raw data in
 
 Data Analyst | Excel | Power BI | Python | SQL | Figma
 
-Connect With Me On - [LinkedIn](https://www.linkedin.com/in/akinkunmiafod) | [Medium](https://medium.com/@afodunrinbikunmi) | [Gmail](afodunrinbikunmi@gmail.com)
+Connect With Me On - [LinkedIn](https://www.linkedin.com/in/akinkunmiafod) | [Medium](https://medium.com/@afodunrinbikunmi) | Gmail: afodunrinbikunmi@gmail.com
