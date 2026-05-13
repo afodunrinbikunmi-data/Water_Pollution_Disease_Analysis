@@ -98,11 +98,6 @@ No relational joins or data model relationships were required. Seven DAX measure
 - **Diarrhea dominates disease type** across every country in the dataset
 - **Regional variation is minimal** — disease burden is broadly distributed not geographically concentrated
 
-## Recommendations
-1. Multi-factor interventions only — single variables do not predict or reduce disease burden
-2. Prioritise water treatment in Mexico, Indonesia, Ethiopia — highest pollution index countries
-3. Build a global real-time disease burden surveillance system — 25 years of no progress demands a new approach
-
 ## Dashboard / Visualization
 The Power BI dashboard contains 2 report pages:
 
@@ -112,6 +107,21 @@ The Power BI dashboard contains 2 report pages:
 ![image description](https://github.com/afodunrinbikunmi-data/Water_Pollution_Disease_Analysis/blob/main/disease%20burden.png)
 - **Pollution & Water Quality**: KPIs, pollution by country, water quality trend, water source breakdown, risk matrix
 ![image description](https://github.com/afodunrinbikunmi-data/Water_Pollution_Disease_Analysis/blob/main/pollution%20risk%20dashboard.png)
+
+## Conclusion
+- **Global Burden Analysis**: Established that waterborne disease is a universal challenge, persisting across all analyzed countries regardless of GDP, urbanization, or healthcare investment.
+- **Longitudinal Stagnation**: Quantified 25 years of monitoring data to reveal that water quality scores remain universally negative despite decades of clean water initiatives.
+- **Multifactorial Crisis Modeling**: Demonstrated that disease burden is driven by complex interactions, requiring a coordinated approach to infrastructure, sanitation, and healthcare access.
+- **Evidence-Based Urgency**: Identified a 25-year trend of systemic inaction, highlighting that the primary barrier to progress is a lack of sustained, data-driven scaling of solutions.
+
+## Recommendations
+1. **Multi-factor interventions only** — single variables do not predict or reduce disease burden
+2. **Prioritise water treatment in Mexico, Indonesia, Ethiopia** — highest pollution index countries
+3. **Build a global real-time disease burden surveillance system** — 25 years of no progress demands a new approach
+
+## Limitation
+- **Scope and Data Constraints**: Acknowledged geographic limitations and potential underreporting bias in healthcare data, suggesting that the true global disease burden may be higher than current captures.
+- **Methodological Boundaries**: Clarified that the Health Risk and Water Quality indices rely on specific weighting assumptions and that identified correlations should not be interpreted as definitive causal relationships.
 
 ## Project Structure
 ```text
